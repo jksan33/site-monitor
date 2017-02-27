@@ -2,6 +2,8 @@
 A simple program written in Python to monitor a web page for changes
 
 ## Setup
-+<code>$ pip install Scrapy</code>
-+<code>$ pip install beautifulsoup4</code>
-+<code>$ pip install requests</code>
+<ul>
+  <li><code>$ pip install Scrapy</code></li>
+  <li><code>$ pip install beautifulsoup4</code></li>
+  <li><code>$ pip install requests</code></li>
+</ul>
