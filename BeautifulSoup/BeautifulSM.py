@@ -4,7 +4,7 @@ import requests
 
 import time
 
-url = raw_input("Enter a website to extract the URL's from: ")
+url = raw_input("Enter website to monitor: ")
 
 t = int(raw_input("Wait time: "))
 
