@@ -5,3 +5,7 @@ A simple program written in Python to monitor a web page for changes. Doesn't wo
 - $ pip install beautifulsoup4
 - $ pip install requests
 - $ pip install lxml
+Also needs:
+- requests
+- time
+- difflib
