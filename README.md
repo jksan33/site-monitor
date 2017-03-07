@@ -8,6 +8,5 @@ A simple program written in Python to monitor a web page for changes. Doesn't wo
 
 
 Also needs:
-- requests
 - time
 - difflib
