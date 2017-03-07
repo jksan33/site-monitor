@@ -6,8 +6,6 @@ import time
 
 import difflib
 
-from pprint import pprint
-
 url = raw_input("Enter website to monitor: ")
 
 t = int(raw_input("Wait time: "))
