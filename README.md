@@ -7,6 +7,6 @@ A simple program written in Python to monitor a web page for changes. Doesn't wo
 - $ pip install lxml
 
 
-##Further dependencies (should be installed by default):
+## Further dependencies (should be installed by default):
 - time
 - difflib
