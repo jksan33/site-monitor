@@ -4,8 +4,8 @@ import time
 import difflib
 
 url = raw_input("Enter website to monitor: ")
-#set the site headers to be used by the requests library, this tells requests to use the same user agent every time it refreshes
-#just in case requests changes user agents for some reason, not sure but this will/should prevent that
+# set the site headers to be used by the requests library, this tells requests to use the same user agent every time it refreshes
+# just in case requests changes user agents for some reason, not sure but this will/should prevent that
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
 t = int(raw_input("Wait time: "))
 
