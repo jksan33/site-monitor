@@ -12,3 +12,4 @@ A simple program written in Python to monitor a web page for changes. Doesn't wo
 - difflib
 
 ## Changes
+-Will Farris: Site headers specify a user agent, could in theory help with the program detecting false changes due to the target site thinking the bot is on a different web browser.
